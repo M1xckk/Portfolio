@@ -20,7 +20,7 @@ export default function Index() {
       name: "BuzzReel",
       description: `BuzzReel is a C# app with react, that allows users to sign up, log in, and create movie posts. Users can delete posts and view other users'posts. This app use signalR to update the posts in real time.`,
       tags: ["React", "Next.js", "Typescript", "Tailwind", "csharp"],
-      links: ["https://github.com/M1xckk/BuzzReel", "https://buzzreel-web.fly.dev"]
+      links: ["https://github.com/M1xckk/csharp", "https://buzzreel-web.fly.dev"]
     },
     {
       name: "AniSOS",
